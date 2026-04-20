@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas==2.2.2
+numpy
+scikit-learn==1.6.1
+xgboost==2.1.4
+joblib
+shap
+google-genai
+python-multipart
