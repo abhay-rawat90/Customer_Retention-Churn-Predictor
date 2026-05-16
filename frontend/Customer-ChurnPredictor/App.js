@@ -16,7 +16,7 @@ const triggerAnimation = () => {
   }
 };
 
-const BACKEND_URL = 'https://abhayr90-customer-churn-predictor.hf.space'; 
+const BACKEND_URL = 'https://retentionai-api--0000001.agreeableisland-5cbfb589.centralindia.azurecontainerapps.io'; 
 
 const QUESTIONNAIRE_STEPS = [
   { id: 'tenure', type: 'numeric', title: 'Customer Tenure', subtitle: 'How long has this customer been with the company?', explanation: 'Enter total months. Higher tenure generally correlates with higher baseline loyalty.', placeholder: 'e.g., 24' },
